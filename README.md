@@ -2,4 +2,4 @@
 
 ## Python Assignmnet's
 
-This Python Program Will Ask You Two Number's and Tell You That are They Completely Divisible or Not!
+Python function to check whether a number is completely divisible by another number. Accept two integer values form the user
